@@ -130,7 +130,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
     
-<h2><span class="yellow">宇都宮北端、白沢街道の一本桜</span></h2>
+<h2><span class="yellow">宇都宮北端、白沢街道の一本桜の場所はここ</span></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1744336691343!6m8!1m7!1sKrmRciwVTzEVTna_4UcgQw!2m2!1d36.60926734953863!2d139.9257949374498!3f335.6467732041073!4f27.315614504796756!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 
 <h2><span class="yellow">白沢街道沿いに一本だけ満開の桜</span></h2>
